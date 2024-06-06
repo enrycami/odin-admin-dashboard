@@ -1,0 +1,1 @@
+This is my solution for the "Admin Dashboard" project from The Odin Project. I'll be using grid and flexbox to recreate the design from the assignment.
